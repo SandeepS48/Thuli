@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  customer_id: 1
+  vendor_id: 1
+  brand_id: 1
+  otp: 1
+  price: 1
+
+two:
+  customer_id: 1
+  vendor_id: 1
+  brand_id: 1
+  otp: 1
+  price: 1
